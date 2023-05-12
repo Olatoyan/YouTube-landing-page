@@ -30,9 +30,6 @@ body {
  START OF HEADER 
 /////////////////*/
 
-.header {
-}
-
 .header__nav {
   display: flex;
   align-items: center;
@@ -58,8 +55,7 @@ body {
   height: 2rem;
   fill: #ff0000;
 }
-.nav__youtube {
-}
+
 .header__nav__links {
   display: flex;
   gap: 6rem;
@@ -120,8 +116,6 @@ body {
 }
 .hero__img-box {
   margin-top: 2rem;
-}
-.hero__img {
 }
 
 /* ////////////////
@@ -357,8 +351,6 @@ body {
  START OF FOOTER SECTION 
 //////////////////////////////*/
 
-.footer {
-}
 .footer__box {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
